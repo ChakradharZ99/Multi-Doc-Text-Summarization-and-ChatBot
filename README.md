@@ -117,7 +117,7 @@ There is a growing need for efficient text summarization, particularly in scenar
 
 - [@ChakradharZ99](https://github.com/ChakradharZ99)
 - **Repositories :**
-[https://github.com/saiabhiramjaini/Multiple-Document-summarization-and-chatbot-using-LLAMA2](https://github.com/ChakradharZ99/Multi-Doc-Text-Summarization-and-ChatBot)
+-[https://github.com/ChakradharZ99/Multi-Doc-Text-Summarization-and-ChatBot](https://github.com/ChakradharZ99/Multi-Doc-Text-Summarization-and-ChatBot)
 
 ## Feedback 
 
